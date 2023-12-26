@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "minecraft-ping": "^1.0.0",
+    "node-notifier": "^10.0.1",
+    "stream": "^0.0.2",
+    "util": "^0.12.5"
+  },
+  "name": "minecraft-server-tracer",
+  "version": "0.0.1",
+  "main": "app.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "rootcf",
+  "license": "ISC",
+  "description": "Minecraft Server Tracer",
+  "repository": {
+    "type": "git",
+    "url": "#"
+  }
+}
